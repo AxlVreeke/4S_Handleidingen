@@ -13,6 +13,7 @@
             {{ __('misc.all_brands') }}
         @show
     </h1>
+    
 
 
     <?php
